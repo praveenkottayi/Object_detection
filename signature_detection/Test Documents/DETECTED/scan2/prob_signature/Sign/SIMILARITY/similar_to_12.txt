@@ -1,2 +1,0 @@
-Similar Signatures based on similarity: 
-[0.0, 40.81450653076172, 47.417091369628906]
