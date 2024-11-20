@@ -1,0 +1,7 @@
+After navigating to the folder :
+
+>> python stamp_detection_extraction.py "t1.jpg"
+
+
+It will create the respective folders and dump the outputs.
+

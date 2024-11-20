@@ -1,0 +1,3 @@
+path = "/home/pyimagesearch/Desktop/stamp/Test_documents/"
+destination = "/home/pyimagesearch/Desktop/stamp/temp/"+ str(image_name.split('.')[0]) +"/"
+destination_prob_stamps = "/home/pyimagesearch/Desktop/stamp/temp/"+ str(image_name.split('.')[0]) +"/prob_stamps/"
